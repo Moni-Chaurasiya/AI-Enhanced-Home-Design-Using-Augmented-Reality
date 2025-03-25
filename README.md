@@ -73,12 +73,10 @@ Measure distances and areas within your physical space using AR pins.
 *   **Height Measurement:** Measure vertical distances.
 *   **Area Calculation:** Define points to calculate the approximate area of a surface (e.g., a wall or floor section).
 
-**Visuals:**
-`[INSERT VIDEO/GIF DEMO of using the AR measurement tool for length/height/area]`
-**(Example: ![AR Measurement Demo](docs/media/ar_measure.gif))**
-
-`[INSERT SCREENSHOT showing a completed measurement on screen]`
-**(Example: ![AR Measurement Result](docs/media/ar_measure_result.png))**
+<p align="center">
+  <img src="assets/areaMeasurement.jpg" alt="AR Measurement Result" width="200">
+    <img src="assets/heightMeasurement.jpg" alt="AR Measurement Result" width="200">
+</p>
 
 ### 4. 🎨 AI Wall Color Changer
 
@@ -88,15 +86,12 @@ Experiment with wall colors without lifting a paintbrush!
 *   **AI Segmentation:** Our AI automatically identifies the walls in your image.
 *   **Color Selection:** Choose your desired color from a palette or input a specific code.
 *   **Instant Visualization:** See your walls transformed with the new color in seconds.
-
-**Visuals:**
-`[INSERT VIDEO/GIF DEMO showing image upload/capture, color selection, and wall color change]`
-**(Example: ![AI Wall Color Demo](docs/media/ai_wall_color.gif))**
-
-`[INSERT Before & After SCREENSHOTS of the wall color change feature]`
-**(Example: ![Wall Color Before](docs/media/wall_before.png) ![Wall Color After](docs/media/wall_after.png))**
-
-### 5. 😊 AI Mood-Based Design Suggestions
+<p align="center">
+  <img src="assets/areaMeasurement.jpg" alt="AR Measurement Result" width="200">
+    <img src="assets/wallColor.jpg" alt="AR Measurement Result" width="200">
+</p>
+### 5. 😊 AI Mood-Based Design Suggest
+ions
 
 Not sure where to start? Get design inspiration based on your desired mood (e.g., Cozy, Modern, Minimalist, Vibrant). The AI suggests color palettes and furniture styles that align with the chosen mood.
 

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly pin
+* source:	https://sketchfab.com/3d-models/lowpoly-pin-652c421271bf4a05a97ec80063f04919
+* author:	Jiří Kuba (https://sketchfab.com/kuba.jirka)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly pin" (https://sketchfab.com/3d-models/lowpoly-pin-652c421271bf4a05a97ec80063f04919) by Jiří Kuba (https://sketchfab.com/kuba.jirka) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

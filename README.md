@@ -16,14 +16,6 @@ HDA revolutionizes interior design by tackling common homeowner frustrations: vi
 
 ---
 
-## 🎬 Demo Reel
-
-See HDA in action! This brief video showcases the core functionalities and user experience.
-
-`[INSERT A SHORT (30-60 seconds) OVERALL DEMO VIDEO HERE - e.g., Link to YouTube/Vimeo or embed a GIF]`
-**(Example: ![HDA Demo Reel](docs/media/hda_demo_reel.gif))**
-
----
 
 ## 🔥 Key Features
 
@@ -42,36 +34,23 @@ Place virtual furniture and decor items directly into your room using your phone
 *   **Real-time Dimensions:** See the dimensions (Width x Depth x Height) of the selected virtual object displayed on screen.
 *   **Capture Scene:** Take photos of your AR design creations.
 
-**Visuals:**
-`[INSERT VIDEO/GIF DEMO of placing, moving, rotating, resizing furniture]`
-**(Example: ![AR Placement Demo](docs/media/ar_placement.gif))**
-
-`[INSERT SCREENSHOT showing furniture placed with dimensions visible]`
-**(Example: ![AR Dimensions Screenshot](docs/media/ar_dimensions.png))**
-
-`[INSERT SCREENSHOT/GIF showing texture swapping]`
-**(Example: ![AR Texture Swap](docs/media/ar_texture_swap.gif))**
-
-`[INSERT SCREENSHOT showing captured AR scene]`
-**(Example: ![AR Scene Capture](docs/media/ar_capture.png))**
+<p align="center">
+  <img src="assets/AR2.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/ar3.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/topAR.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/AR1.jpg" alt="AR Measurement Result" width="200">
+</p>
 
 <p align="center">
-  <img src="assets/AR1.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/c1.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/c2.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/c3.jpg" alt="AR Measurement Result" width="200">
   <img src="assets/ARvertical.jpg" alt="AR Measurement Result" width="200">
   <img src="assets/verticalAR.jpg" alt="AR Measurement Result" width="200">
 </p>
 
-### 2. 📚 Extensive Interior Catalog
 
-Browse a diverse range of interior components categorized for easy selection (e.g., Sofas, Tables, Lamps, Decor).
-
-`[INSERT SCREENSHOT of the item catalog/category selection screen]`
-**(Example: ![Catalog Screenshot](docs/media/catalog.png))**
-
-`[INSERT SCREENSHOT showing different items within a category]`
-**(Example: ![Catalog Items Screenshot](docs/media/catalog_items.png))**
-
-### 3. 📏 AR Measurement Tool
+### 2. 📏 AR Measurement Tool
 
 Measure distances and areas within your physical space using AR pins.
 
@@ -84,7 +63,7 @@ Measure distances and areas within your physical space using AR pins.
   <img src="assets/heightMeasurement.jpg" alt="AR Measurement Result" width="200">
 </p>
 
-### 4. 🎨 AI Wall Color Changer
+### 3. 🎨 AI Wall Color Changer
 
 Experiment with wall colors without lifting a paintbrush!
 
@@ -93,12 +72,13 @@ Experiment with wall colors without lifting a paintbrush!
 *   **Color Selection:** Choose your desired color from a palette or input a specific code.
 *   **Instant Visualization:** See your walls transformed with the new color in seconds.
 <p align="center">
+  <img src="assets/wallPaint.jpg" alt="wall color" width="200">
   <img src="assets/wallColor.jpg" alt="wall color" width="200">
-   <img src="assets/wall2.jpg" alt="wall color" width="200">
+  <img src="assets/wall2.jpg" alt="wall color" width="200">
   <img src="assets/wall3.jpg" alt="wall color" width="200">
 </p>
-### 5. 😊 AI Mood-Based Design Suggest
-ions
+
+### 4. 😊 AI Mood-Based Design Suggestions
 
 Not sure where to start? Get design inspiration based on your desired mood (e.g., Cozy, Modern, Minimalist, Vibrant). The AI suggests color palettes and furniture styles that align with the chosen mood.
 
@@ -111,7 +91,7 @@ Not sure where to start? Get design inspiration based on your desired mood (e.g.
   <img src="assets/mood3.jpg" alt="wall color" width="200">
 </p>
 
-### 6. 💡 AI Design Assistant & Image Generation
+### 5. 💡 AI Design Assistant & Image Generation
 
 Get contextual design advice and visualize AI-generated concepts.
 
@@ -120,43 +100,34 @@ Get contextual design advice and visualize AI-generated concepts.
 *   **Receive Text Suggestions:** AI analyzes the image and provides actionable design tips, layout ideas, and item recommendations in text format.
 *   **Text-to-Image Generation:** Convert the AI's textual suggestions (or your own prompts) into unique concept images, visualizing potential designs.
 
-**Visuals:**
-`[INSERT SCREENSHOT showing image upload and room type selection]`
-**(Example: ![AI Assist Input](docs/media/ai_assist_input.png))**
+<p align="center">
+  <img src="assets/suggest1.jpg" alt="wall color" width="200">
+   <img src="assets/suggest2.jpg" alt="wall color" width="200">
+  <img src="assets/suggest3.jpg" alt="wall color" width="200">
+</p>
 
-`[INSERT SCREENSHOT showing AI-generated text suggestions]`
-**(Example: ![AI Text Suggestions](docs/media/ai_text_suggestions.png))**
-
-`[INSERT VIDEO/GIF DEMO showing the text-to-image generation process]`
-**(Example: ![AI Image Gen Demo](docs/media/ai_image_gen.gif))**
-
-`[INSERT SCREENSHOTS of AI-generated concept images]`
-**(Example: ![AI Generated Image 1](docs/media/ai_gen_img1.png) ![AI Generated Image 2](docs/media/ai_gen_img2.png))**
-
-### 7. 🛒 Shopping & Saving Features
+### 6. 🛒 Shopping & Saving Features
 
 Found items you love? Save them for later or proceed towards making them a reality.
 
 *   **Add to Favorites:** Save individual furniture items or entire design layouts.
-*   **Add to Cart:** Curate a list of desired items (integration with actual e-commerce TBD/simulated for hackathon).
-*   **Book Consultation (Optional):** Simulate booking a design consultation based on the curated items/design (if applicable).
+*   **Add to Cart:** Curate a list of desired items (integration with actual e-commerce).
+*   **Book Consultation:** Simulate booking a design consultation based on the curated items/design.
 
 <p align="center">
-  <img src="assets/cart1.jpg" alt="order" width="200">
+   <img src="assets/furnitures.jpg" alt="order" width="200">
+   <img src="assets/infoFur.jpg" alt="order" width="200">
+   <img src="assets/cart1.jpg" alt="order" width="200">
    <img src="assets/myorder.jpg" alt="order" width="200">
-  <img src="assets/detailOrder.jpg" alt="order" width="200">
+   <img src="assets/detailOrder.jpg" alt="order" width="200">
 </p>
-### 8. 📲 Sharing Capabilities
+
+### 7. 📲 Sharing Capabilities
 
 Share your design creations and AI-generated concepts easily.
 
 *   **Share AR Captures:** Export and share the photos taken within the AR view.
 *   **Share AI Images:** Share the images generated by the AI Wall Color Changer and Text-to-Image features.
-
-**Visuals:**
-`[INSERT SCREENSHOT showing the 'Share' button/option within the app]`
-**(Example: ![Share Option](docs/media/share_option.png))**
-
 ---
 
 ## ⚙️ How It Works (User Flow)
@@ -179,10 +150,10 @@ Share your design creations and AI-generated concepts easily.
 *   **Augmented Reality:** Native AR capabilities via Flutter plugins
 *   **Backend & Database:** Firebase (Firestore for data storage, Firebase Storage for images, potentially Firebase Auth for users)
 *   **Artificial Intelligence:**
-    *   **Image Segmentation:** [Specify Model/API used, e.g., TensorFlow Lite Model, Google ML Kit Segmentation, Custom API]
-    *   **Design Recommendations/Text Generation:** [Specify Model/API used, e.g., GPT-3/4 API, Gemini API, Custom Model]
-    *   **Text-to-Image Generation:** [Specify Model/API used, e.g., Stable Diffusion API, DALL-E API, Midjourney API]
-*   **State Management (Flutter):** [Specify, e.g., Provider, Riverpod, BLoC]
+    *   **Image Segmentation:** 
+    *   **Design Recommendations/Text Generation**
+    *   **Text-to-Image Generation:**
+*   **State Management (Flutter):** 
 
 ---
 

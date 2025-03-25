@@ -55,6 +55,12 @@ Place virtual furniture and decor items directly into your room using your phone
 `[INSERT SCREENSHOT showing captured AR scene]`
 **(Example: ![AR Scene Capture](docs/media/ar_capture.png))**
 
+<p align="center">
+  <img src="assets/AR1.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/ARvertical.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/verticalAR.jpg" alt="AR Measurement Result" width="200">
+</p>
+
 ### 2. 📚 Extensive Interior Catalog
 
 Browse a diverse range of interior components categorized for easy selection (e.g., Sofas, Tables, Lamps, Decor).
@@ -75,7 +81,7 @@ Measure distances and areas within your physical space using AR pins.
 
 <p align="center">
   <img src="assets/areaMeasurement.jpg" alt="AR Measurement Result" width="200">
-    <img src="assets/heightMeasurement.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/heightMeasurement.jpg" alt="AR Measurement Result" width="200">
 </p>
 
 ### 4. 🎨 AI Wall Color Changer
@@ -87,8 +93,9 @@ Experiment with wall colors without lifting a paintbrush!
 *   **Color Selection:** Choose your desired color from a palette or input a specific code.
 *   **Instant Visualization:** See your walls transformed with the new color in seconds.
 <p align="center">
-  <img src="assets/areaMeasurement.jpg" alt="AR Measurement Result" width="200">
-    <img src="assets/wallColor.jpg" alt="AR Measurement Result" width="200">
+  <img src="assets/wallColor.jpg" alt="wall color" width="200">
+   <img src="assets/wall2.jpg" alt="wall color" width="200">
+  <img src="assets/wall3.jpg" alt="wall color" width="200">
 </p>
 ### 5. 😊 AI Mood-Based Design Suggest
 ions
@@ -98,12 +105,11 @@ Not sure where to start? Get design inspiration based on your desired mood (e.g.
 *   **Select Mood:** Choose from predefined mood options.
 *   **Receive Suggestions:** Get tailored recommendations for colors, textures, and furniture types.
 
-**Visuals:**
-`[INSERT SCREENSHOT showing mood selection options]`
-**(Example: ![Mood Selection](docs/media/mood_select.png))**
-
-`[INSERT SCREENSHOT showing AI-generated mood-based suggestions (text or visual concepts)]`
-**(Example: ![Mood Suggestions](docs/media/mood_suggestions.png))**
+<p align="center">
+  <img src="assets/mood.jpg" alt="wall color" width="200">
+   <img src="assets/mood2.jpg" alt="wall color" width="200">
+  <img src="assets/mood3.jpg" alt="wall color" width="200">
+</p>
 
 ### 6. 💡 AI Design Assistant & Image Generation
 
@@ -135,13 +141,11 @@ Found items you love? Save them for later or proceed towards making them a reali
 *   **Add to Cart:** Curate a list of desired items (integration with actual e-commerce TBD/simulated for hackathon).
 *   **Book Consultation (Optional):** Simulate booking a design consultation based on the curated items/design (if applicable).
 
-**Visuals:**
-`[INSERT SCREENSHOT showing the Favorites list]`
-**(Example: ![Favorites Screenshot](docs/media/favorites.png))**
-
-`[INSERT SCREENSHOT showing the Shopping Cart]`
-**(Example: ![Shopping Cart Screenshot](docs/media/cart.png))**
-
+<p align="center">
+  <img src="assets/cart1.jpg" alt="order" width="200">
+   <img src="assets/myorder.jpg" alt="order" width="200">
+  <img src="assets/detailOrder.jpg" alt="order" width="200">
+</p>
 ### 8. 📲 Sharing Capabilities
 
 Share your design creations and AI-generated concepts easily.
@@ -172,7 +176,7 @@ Share your design creations and AI-generated concepts easily.
 ## 🛠️ Technology Stack
 
 *   **Frontend:** Flutter (Cross-platform Mobile App Development)
-*   **Augmented Reality:** Native AR capabilities via Flutter plugins (e.g., `ar_flutter_plugin`, `arkit_plugin`, `arcore_flutter_plugin` - *Specify which one you used*) - **No Unity/Unreal Engine required!**
+*   **Augmented Reality:** Native AR capabilities via Flutter plugins
 *   **Backend & Database:** Firebase (Firestore for data storage, Firebase Storage for images, potentially Firebase Auth for users)
 *   **Artificial Intelligence:**
     *   **Image Segmentation:** [Specify Model/API used, e.g., TensorFlow Lite Model, Google ML Kit Segmentation, Custom API]
@@ -182,7 +186,7 @@ Share your design creations and AI-generated concepts easily.
 
 ---
 
-## 🚀 Getting Started (Optional - If code is runnable)
+## 🚀 Getting Started 
 
 Instructions to get the project running locally.
 
@@ -230,12 +234,6 @@ Instructions to get the project running locally.
 *   [Team Member 2 Name] - [Role, e.g., AI Engineer, UI/UX Designer]
     *   *(Add links to GitHub profiles if desired)*
 
----
 
-##📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 **Made with ❤️ for the [Name of Hackathon]!**

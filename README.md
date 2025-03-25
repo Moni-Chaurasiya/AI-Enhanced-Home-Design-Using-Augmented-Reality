@@ -168,8 +168,8 @@ Instructions to get the project running locally.
     *   Firebase project setup.
 2.  **Clone the repository:**
     ```bash
-    git clone [Your Repository HTTPS/SSH Link]
-    cd AI-Enhanced-Home-Design-AR
+    git clone [https://github.com/Moni-Chaurasiya/AI-Enhanced-Home-Design-Using-Augmented-Reality.git]
+    cd AI-Enhanced-Home-Design-Using-Augmented-Reality
     ```
 3.  **Install dependencies:**
     ```bash
@@ -178,14 +178,12 @@ Instructions to get the project running locally.
 4.  **Configure Firebase:**
     *   Follow Firebase setup instructions for Flutter ([FlutterFire Overview](https://firebase.flutter.dev/docs/overview)).
     *   Place your `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) files in the correct directories (`android/app/` and `ios/Runner/`).
-5.  **Configure API Keys (If necessary):**
-    *   If using external AI APIs, ensure you have set up API keys securely (e.g., using environment variables or a configuration file - **DO NOT COMMIT KEYS DIRECTLY**). Add instructions here if needed.
-6.  **Run the app:**
+    *   
+5.  **Run the app:**
     ```bash
     flutter run
     ```
     *   Ensure your AR-compatible device is connected and selected.
-
 ---
 
 ## 📈 Future Scope
@@ -201,10 +199,7 @@ Instructions to get the project running locally.
 
 ## 👥 Team / Contributors
 
-*   [Your Name/Team Member 1 Name] - [Role, e.g., Lead Developer, AR Specialist]
-*   [Team Member 2 Name] - [Role, e.g., AI Engineer, UI/UX Designer]
-    *   *(Add links to GitHub profiles if desired)*
+*   [Moni Chaurasiya] - [ App & Web Developer ]
+*   [Gagan Prajapati] - [ AI Engineer ]
 
-
-
-**Made with ❤️ for the [Name of Hackathon]!**
+**Made with ❤️ for the [Visionary Home]!**
